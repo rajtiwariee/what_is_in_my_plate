@@ -6,6 +6,8 @@ This project presents a web application that utilizes `transfer learning` with t
     <img src="https://github.com/rajtiwariee/helper_functions/blob/master/assets/model%20prediction.png?raw=true">
 </p>
 
+![image](https://github.com/rajtiwariee/what_is_in_my_plate/assets/98082499/d7c4727d-39c2-46c0-a34d-cfb3924cfbe8)
+
 ## Data Acquisition:
 ---
 The Food101 dataset was employed for training the model. TensorFlow Datasets library facilitated the process of loading and utilizing the dataset effectively.
